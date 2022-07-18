@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeRotate)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeRotate&repo=TextClassification)](https://github.com/FreeRotate/TextClassification)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeRotate&repo=BOAT)](https://github.com/FreeRotate/BOAT)
