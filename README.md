@@ -13,6 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Hi there 👋
+### I'm LauTrueyes, a passionate self-taught NLP student & engineer from Ganzhou Jiangxi China.
+My passion for natural language processing lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
+
+I am also a tech enthusiast & an open-source advocate. I am always open to collaborating on projects and innovative/disruptive ideas.
 <!-- 敲代码的图片 -->
 <div align="center">
   <img src="./coding.gif"/>
