@@ -12,8 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
+<!-- GitHub数据统计 -->
 <div align="center">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=FreeRotate&show_icons=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FreeRotate&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=ffffff&theme=graywhite" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeRotate&show_icons=true&layout=compact&langs_count=6&text_color=000&icon_color=000&bg_color=ffffff&theme=graywhite" />
+</div>
+<br>
+
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=FreeRotate&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
