@@ -32,8 +32,8 @@ I love artificial intelligence and advocate the code open-source. I am always op
 <br>
 <!-- 数据统计 -->
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FreeRotate&show_icons=true&theme=vue&hide_border=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeRotate&show_icons=true&theme=vue&hide_border=true" />
+  <img height="180x" src="https://github-readme-stats.vercel.app/api?username=FreeRotate&show_icons=true&theme=vue&hide_border=true" />
+  <img height="180x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeRotate&show_icons=true&theme=vue&hide_border=true" />
 </div>
 <br>
 <!-- 活动统计 -->
