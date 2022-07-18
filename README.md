@@ -24,11 +24,16 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=FreeRotate&theme=vue&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
+<br>
 
-<!-- GitHub数据统计 -->
+<!-- 数据统计 -->
 <div align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FreeRotate&show_icons=true&theme=vue" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeRotate&show_icons=true&theme=vue" />
 </div>
 <br>
 
+<!-- 活动统计 -->
+<div align="center">
+    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=FreeRotate&theme=github-light&hide_border=true" />
+</div>
