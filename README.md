@@ -12,10 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- GitHub数据统计 -->
+
+<!-- 敲代码的图片 -->
 <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FreeRotate&show_icons=true&theme=great-gatsby" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeRotate&show_icons=true&theme=great-gatsby" />
+  <img src="./coding.gif"/>
+  <h1>import torch as tf</h1>
 </div>
 <br>
 
@@ -23,3 +24,11 @@ Here are some ideas to get you started:
 <div align="center">
   <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=FreeRotate&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
+
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=FreeRotate&show_icons=true&theme=great-gatsby" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeRotate&show_icons=true&theme=great-gatsby" />
+</div>
+<br>
+
