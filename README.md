@@ -1,10 +1,8 @@
-### Hi there 👋
-
 <!--
 **FreeRotate/FreeRotate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+### Hi there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,8 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeRotate)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeRotate&repo=TextClassification)](https://github.com/FreeRotate/TextClassification)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FreeRotate&repo=BOAT)](https://github.com/FreeRotate/BOAT)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FreeRotate&show_icons=true)
