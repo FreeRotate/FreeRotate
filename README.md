@@ -22,7 +22,8 @@ I love artificial intelligence and advocate the code open-source. I am always op
 <!-- 敲代码的图片 -->
 <div align="center">
   <img src="./coding.gif"/>
-  <h1>import torch as tf</h1>
+  <h1>The idea is not to live forever.</h1>
+  <h1>It is to create something that will.</h1>
 </div>
 <br>
 <!-- 连续提交代码天数记录 -->
