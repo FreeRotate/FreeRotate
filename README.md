@@ -1,8 +1,3 @@
-**FreeRotate/FreeRotate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-### Hi there 👋
-
 ## Hi there 👋
 ### I'm LauTrueyes, a passionate NLP student & engineer.
 My passion for natural language processing lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
