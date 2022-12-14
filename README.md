@@ -21,10 +21,3 @@ I love artificial intelligence and advocate the code open-source. I am always op
   <img height="180x" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FreeRotate&show_icons=true&theme=vue&hide_border=true" />
 </div>
 <br>
-
-<!-- 
-<!-- 活动统计 -->
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=FreeRotate&theme=github-light&hide_border=true" />
-</div>
- -->
