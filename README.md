@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm LauTrueyes, a passionate NLP student & engineer.
+### I'm LauTrueyes, a passionate NLP engineer.
 My passion for natural language processing lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality.
 
 I love artificial intelligence and advocate the code open-source. I am always open to collaborating on projects and innovative/disruptive ideas.
