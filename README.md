@@ -9,4 +9,3 @@ I love artificial intelligence and advocate the code open-source. I am always op
   <img src="./coding.gif"/>
   <h1>The idea is not to live forever, it is to create something that will.</h1>
 </div>
-<br>
