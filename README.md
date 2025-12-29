@@ -10,9 +10,3 @@ I love artificial intelligence and advocate the code open-source. I am always op
   <h1>The idea is not to live forever, it is to create something that will.</h1>
 </div>
 <br>
-<!-- 连续提交代码天数记录 -->
-<div align="center">
-  <img height="180px" src="https://github-readme-streak-stats.herokuapp.com?user=FreeRotate&theme=vue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
-</div>
-<br>
-<br>
